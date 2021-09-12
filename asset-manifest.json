@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "https://kvsharma14.github.io/csb-pu426/static/css/main.41087a48.chunk.css",
+    "main.js": "https://kvsharma14.github.io/csb-pu426/static/js/main.8c9e28b7.chunk.js",
+    "main.js.map": "https://kvsharma14.github.io/csb-pu426/static/js/main.8c9e28b7.chunk.js.map",
+    "runtime-main.js": "https://kvsharma14.github.io/csb-pu426/static/js/runtime-main.fc17b734.js",
+    "runtime-main.js.map": "https://kvsharma14.github.io/csb-pu426/static/js/runtime-main.fc17b734.js.map",
+    "static/css/2.d69bb661.chunk.css": "https://kvsharma14.github.io/csb-pu426/static/css/2.d69bb661.chunk.css",
+    "static/js/2.f2773257.chunk.js": "https://kvsharma14.github.io/csb-pu426/static/js/2.f2773257.chunk.js",
+    "static/js/2.f2773257.chunk.js.map": "https://kvsharma14.github.io/csb-pu426/static/js/2.f2773257.chunk.js.map",
+    "index.html": "https://kvsharma14.github.io/csb-pu426/index.html",
+    "static/css/2.d69bb661.chunk.css.map": "https://kvsharma14.github.io/csb-pu426/static/css/2.d69bb661.chunk.css.map",
+    "static/css/main.41087a48.chunk.css.map": "https://kvsharma14.github.io/csb-pu426/static/css/main.41087a48.chunk.css.map",
+    "static/js/2.f2773257.chunk.js.LICENSE.txt": "https://kvsharma14.github.io/csb-pu426/static/js/2.f2773257.chunk.js.LICENSE.txt",
+    "static/media/loginp.47ab409e.png": "https://kvsharma14.github.io/csb-pu426/static/media/loginp.47ab409e.png",
+    "static/media/logo_blue.f8b021e2.png": "https://kvsharma14.github.io/csb-pu426/static/media/logo_blue.f8b021e2.png",
+    "static/media/trophy.abfd9864.png": "https://kvsharma14.github.io/csb-pu426/static/media/trophy.abfd9864.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc17b734.js",
+    "static/css/2.d69bb661.chunk.css",
+    "static/js/2.f2773257.chunk.js",
+    "static/css/main.41087a48.chunk.css",
+    "static/js/main.8c9e28b7.chunk.js"
+  ]
+}
